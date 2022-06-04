@@ -1,4 +1,4 @@
-1) Create a 3D unity project then put Asset Zip folder to inside. 
+1) Open RosShape.unity(In Asset.zip) a 3D unity project then put Asset Zip folder to inside. 
 
 Start broker with separate terminal.
 1) cd catkin_ws/ 
